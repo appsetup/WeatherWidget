@@ -1,0 +1,4 @@
+WeatherWidget
+=============
+
+Android Weather Widget
